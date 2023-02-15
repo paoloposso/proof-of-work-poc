@@ -39,7 +39,7 @@ func GetData(chal challenge.Challenge) (string, error) {
 }
 
 func GetChallenge() (chal challenge.Challenge) {
-	return generateChallenge(3)
+	return generateChallenge(5)
 }
 
 func generateChallenge(difficulty int32) (chal challenge.Challenge) {
