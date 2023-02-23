@@ -1,4 +1,4 @@
-# Client - Server: Proof of Work Challenge
+# Client - Server: Proof of Work PoC
 
 The application simulates an intereation between a client and a server.
 
